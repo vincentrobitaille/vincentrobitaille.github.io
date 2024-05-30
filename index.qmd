@@ -10,31 +10,29 @@ about:
 
 ---
 
-### This content appears above the formatted about page content.
+### Présentation
 
-:::{#hero-heading}
+Je suis candidat à la maîtrise en économique à l'Université Laval et économiste au sein de la Direction de la taxation des entreprises et de l'analyse quantitative du Ministère des Finances du Québec.
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Je me spécialise dans l'analyse de données économiques et financière. Je m'intéresse principalement à la macroéconomie, l'économie financière et l'économétrie.
 
-:::
+### Éducation
 
-### Education
+Université Laval, Québec, Canada
+M.A. en économique - mémoire | Sept 2024 - Présent
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+Université Laval, Québec, Canada
+B.Sc. en économie et mathématiques | Sept 2021 - Présent
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+### Expérience
 
-:::
+**Ministère des Finances du Québec | Économiste | Août 2023 - Présent**
 
-### Experience
+Production, amélioration et automatisation de la publication *Statistiques fiscales des sociétés*
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+Réalisation d'une étude à l'interne sur les firmes zombies québécoises
 
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
-:::
+**Forces armées canadiennes | Sapeur de combat | 2018 - 2023**
 
 ### This content appears below the formatted about page content.
 
