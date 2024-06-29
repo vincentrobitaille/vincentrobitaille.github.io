@@ -18,11 +18,42 @@ Je me spécialise dans l'analyse de données économiques et financière. Je m'i
 
 ### Éducation
 
-Université Laval, Québec, Canada
+Université Laval, Québec, Canada | 
 M.A. en économique - mémoire | Sept 2024 - Présent
 
-Université Laval, Québec, Canada
-B.Sc. en économie et mathématiques | Sept 2021 - Présent
+Université Laval, Québec, Canada| 
+B.Sc. en économie et mathématiques | Sept 2021 - Mai 2024
+
+<style>
+  .two-columns {
+    display: flex;
+    justify-content: space-between;
+  }
+  .column {
+    width: 48%;
+    text-align: left;
+  }
+  ul {
+  padding-left: 20px;
+}
+</style>
+
+<div class="two-columns">
+  <div class="column">
+    - Économétrie des séries chronologiques
+    - Économie financière
+    - Microéconomie avancée
+    - Analyse de tableaux de fréquences
+    - Programmation avancée en R
+  </div>
+  <div class="column">
+    - Statistique bayésienne
+    - Régression linéaire
+    - Analyse de données
+    - Apprentissage statistique et *ML*
+    - Modélisation mathématique et statistique
+  </div>
+</div>
 
 ### Expérience
 
@@ -30,7 +61,7 @@ B.Sc. en économie et mathématiques | Sept 2021 - Présent
 
 Production, amélioration et automatisation de la publication *Statistiques fiscales des sociétés*
 
-Réalisation d'une étude à l'interne sur les firmes zombies québécoises
+Réalisation d'une étude interne sur les firmes zombies québécoises
 
 **Forces armées canadiennes | Sapeur de combat | 2018 - 2023**
 
