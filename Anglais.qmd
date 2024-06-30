@@ -9,13 +9,13 @@ about:
       href: https://www.linkedin.com/in/vincentrobitaille/
 ---
 
-### Présentation
+### Presentation
 
 I am a candidate for a Master's degree in Economics at Laval University and an economist within the Business Taxation and Quantitative Analysis division of Quebec Department of Finance.
 
 I specialize in the analysis of economic and financial data. My main interests are macroeconomics, financial economics, and econometrics.
 
-### Éducation
+### Education
 
 **Laval University, Québec, Canada \| M.A. in economics \| Sept 2024 - Current**
 
