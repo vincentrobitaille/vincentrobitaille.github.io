@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "vincentrobitaille.github.io",
+    "title": "Vincent Robitaille",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Présentation\nJe suis candidat à la maîtrise en économique à l’Université Laval et économiste au sein de la Direction de la taxation des entreprises et de l’analyse quantitative du Ministère des Finances du Québec.\nJe me spécialise dans l’analyse de données économiques et financière. Je m’intéresse principalement à la macroéconomie, l’économie financière et l’économétrie.\n\n\nÉducation\nUniversité Laval, Québec, Canada | M.A. en économique - mémoire | Sept 2024 - Présent\nUniversité Laval, Québec, Canada | B.Sc. en économie et mathématiques | Sept 2021 - Mai 2024\n\n\n\n- Économétrie des séries chronologiques\n- Économie financière\n- Microéconomie avancée\n- Analyse de tableaux de fréquences\n- Programmation avancée en R\n\n\n- Statistique bayésienne\n- Méthodes de régression\n- Analyse de données\n- Apprentissage statistique et machine\n- Modélisation mathématique et statistique\n\n\n\n\nExpérience\nMinistère des Finances du Québec | Économiste | Août 2023 - Présent\nProduction, amélioration et automatisation de la publication Statistiques fiscales des sociétés\nRéalisation d’une étude interne sur les firmes zombies québécoises\nForces armées canadiennes | Sapeur de combat | 2018 - 2023\nDP2: Cours de commandant adjoint de section.\n\n\nAutre\nCertifications et accréditations\nMembre statisticien de l’ASSQ\nLangues : Français (langue première) et anglais avancé"
   },
   {
     "objectID": "about.html",
@@ -30,6 +30,41 @@
   {
     "objectID": "Favorites.html#running-code",
     "href": "Favorites.html#running-code",
+    "title": "Favorites",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Vincent Robitaille",
+    "section": "",
+    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Vincent Robitaille",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "Anglais.html",
+    "href": "Anglais.html",
+    "title": "Vincent Robitaille",
+    "section": "",
+    "text": "Présentation\nI am a candidate for a Master’s degree in Economics at Laval University and an economist within the Business Taxation and Quantitative Analysis division of Quebec Department of Finance.\nI specialize in the analysis of economic and financial data. My main interests are macroeconomics, financial economics, and econometrics.\n\n\nÉducation\nLaval University, Québec, Canada | M.A. in economics | Sept 2024 - Current\nLaval University, Québec, Canada | B.Sc. in economics and mathematics | Sept 2021 - May 2024\n\n\n\n- Time series econometrics\n- Financial economics\n- Avanced microeconomics\n- Discrete data analysis\n- Advanced R programming\n\n\n- Bayesian statistics\n- Regression models\n- Data analysis\n- Statistical and machine learning\n- Mathematical and statistical modeling\n\n\n\n\nExperience\nDepartment of Finance Québec | Eonomist | Aug 2023 - Current\nProduction, improvement, and automation of the publication Statistiques fiscales des sociétés\nConducting an internal study on zombie firms in Québec\nCanadian Armed Forces | Combat Engineer | 2018 - 2023\nDP2: Combat engineer 2IC course\n\n\nAutre\nCertification and accreditations\nStatistician member of ASSQ\nLanguages : French (native) and advanced english"
+  },
+  {
+    "objectID": "Anglais.html#page-test",
+    "href": "Anglais.html#page-test",
+    "title": "Favorites",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Anglais.html#running-code",
+    "href": "Anglais.html#running-code",
     "title": "Favorites",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
