@@ -1,5 +1,6 @@
 ---
 title: "Vincent Robitaille"
+lang: fr
 about:
   template: jolla
   image: profile.jpg
@@ -17,9 +18,9 @@ Je me spécialise dans l'analyse de données économiques et financière. Je m'i
 
 ### Éducation
 
-Université Laval, Québec, Canada \| M.A. en économique - mémoire \| Sept 2024 - Présent
+**Université Laval, Québec, Canada \| M.A. en économique - mémoire \| Sept 2024 - Présent**
 
-Université Laval, Québec, Canada\| B.Sc. en économie et mathématiques \| Sept 2021 - Mai 2024
+**Université Laval, Québec, Canada \| B.Sc. en économie et mathématiques \| Sept 2021 - Mai 2024**
 
 ```{=html}
 <style>
@@ -50,9 +51,9 @@ Université Laval, Québec, Canada\| B.Sc. en économie et mathématiques \| Sep
 ::: column
 ```         
 - Statistique bayésienne
-- Régression linéaire
+- Méthodes de régression
 - Analyse de données
-- Apprentissage statistique et *ML*
+- Apprentissage statistique et machine
 - Modélisation mathématique et statistique
 ```
 :::
@@ -68,12 +69,12 @@ Réalisation d'une étude interne sur les firmes zombies québécoises
 
 **Forces armées canadiennes \| Sapeur de combat \| 2018 - 2023**
 
-### This content appears below the formatted about page content.
+DP2: Cours de commandant adjoint de section.
 
-This is a Quarto website.
+### Autre
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Certifications et accréditations**
 
-```{r}
-1 + 1
-```
+Membre statisticien de l'ASSQ
+
+**Langues :** Français (langue première) et anglais avancé
