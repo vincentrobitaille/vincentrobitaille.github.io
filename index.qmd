@@ -2,7 +2,7 @@
 title: "Vincent Robitaille"
 lang: fr
 about:
-  template: jolla
+  template: solana
   image: profile.jpg
   links:
     - icon: linkedin
@@ -18,56 +18,38 @@ Je me spécialise dans l'analyse de données économiques et financière. Je m'i
 
 ### Éducation
 
-**Université Laval, Québec, Canada \| M.A. en économique - mémoire \| Sept 2024 - Présent**
+**M. A. en économique - mémoire \| <br> ULaval, Québec, Canada \| <br> Sept 2024 - Présent**
 
-**Université Laval, Québec, Canada \| B.Sc. en économie et mathématiques \| Sept 2021 - Mai 2024**
+**B. Sc. intégré en économie et mathématiques \| <br> ULaval, Québec, Canada \| <br> Sept 2021 - Mai 2024**
 
-```{=html}
-<style>
-  .two-columns {
-    display: flex;
-    justify-content: space-between;
-  }
-  .column {
-    width: 48%;
-    text-align: left;
-  }
-  ul {
-  padding-left: 20px;
-}
-</style>
-```
-::: two-columns
-::: column
-```         
-- Économétrie des séries chronologiques
-- Économie financière
-- Microéconomie avancée
-- Analyse de tableaux de fréquences
-- Programmation avancée en R
-```
-:::
+::::: {layout-ncol=2}
+:::: {.column style="width: 10%;"}
+  - Économétrie des séries chronologiques
+  - Économie financière
+  - Microéconomie avancée
+  - Analyse de tableaux de fréquences
+  - Programmation avancée en R
+::::
 
-::: column
-```         
-- Statistique bayésienne
-- Méthodes de régression
-- Analyse de données
-- Apprentissage statistique et machine
-- Modélisation mathématique et statistique
-```
-:::
-:::
+:::: {.column style="width: 10%;"}
+  - Statistique bayésienne
+  - Méthodes de régression
+  - Analyse de données
+  - Apprentissage statistique et machine
+  - Modélisation
+::::
+:::::
+
 
 ### Expérience
 
-**Ministère des Finances du Québec \| Économiste \| Août 2023 - Présent**
+**Économiste \| <br> Ministère des Finances du Québec \| <br> Août 2023 - Présent**
 
 Production, amélioration et automatisation de la publication *Statistiques fiscales des sociétés*
 
 Réalisation d'une étude interne sur les firmes zombies québécoises
 
-**Forces armées canadiennes \| Sapeur de combat \| 2018 - 2023**
+**Sapeur de combat \| <br> Forces armées canadiennes \| <br> 2018 - 2023**
 
 DP2: Cours de commandant adjoint de section.
 
@@ -75,6 +57,9 @@ DP2: Cours de commandant adjoint de section.
 
 **Certifications et accréditations**
 
-Membre statisticien de l'ASSQ
+  - Membre statisticien de l'ASSQ
 
-**Langues :** Français (langue première) et anglais avancé
+**Langues**
+
+  - Français (langue première)
+  - Anglais avancé

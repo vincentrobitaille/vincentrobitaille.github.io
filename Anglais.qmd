@@ -1,7 +1,7 @@
 ---
 title: "Vincent Robitaille"
 about:
-  template: jolla
+  template: solana
   image: profile.jpg
   links:
     - icon: linkedin
@@ -9,64 +9,45 @@ about:
       href: https://www.linkedin.com/in/vincentrobitaille/
 ---
 
-### Présentation
+### Presentation
 
 I am a candidate for a Master's degree in Economics at Laval University and an economist within the Business Taxation and Quantitative Analysis division of Quebec Department of Finance.
 
 I specialize in the analysis of economic and financial data. My main interests are macroeconomics, financial economics, and econometrics.
 
-### Éducation
+### Education
 
-**Laval University, Québec, Canada \| M.A. in economics \| Sept 2024 - Current**
+**M.A. in economics - thesis \| <br> ULaval, Québec, Canada \| <br> Sept 2024 - Current**
 
-**Laval University, Québec, Canada \| B.Sc. in economics and mathematics \| Sept 2021 - May 2024**
+**B.Sc. integrated in economics and mathematics \| <br> ULaval Québec, Canada \| <br> Sept 2021 - May 2024**
 
-```{=html}
-<style>
-  .two-columns {
-    display: flex;
-    justify-content: space-between;
-  }
-  .column {
-    width: 48%;
-    text-align: left;
-  }
-  ul {
-  padding-left: 20px;
-}
-</style>
-```
-::: two-columns
-::: column
-```         
-- Time series econometrics
-- Financial economics
-- Avanced microeconomics
-- Discrete data analysis
-- Advanced R programming
-```
-:::
+::::: {layout-ncol=2}
+:::: {.column style="width: 10%;"}
+  - Time series econometrics
+  - Financial economics
+  - Avanced microeconomics
+  - Discrete data analysis
+  - Advanced R programming
+::::
 
-::: column
-```         
-- Bayesian statistics
-- Regression models
-- Data analysis
-- Statistical and machine learning
-- Mathematical and statistical modeling
-```
-:::
-:::
+:::: {.column style="width: 10%;"}
+  - Bayesian statistics
+  - Regression models
+  - Data analysis
+  - Statistical and machine learning
+  - Mathematical and statistical modeling
+::::
+:::::
 
 ### Experience
 
-**Department of Finance Québec \| Eonomist \| Aug 2023 - Current**
+**Economist | <br> Department of Finance Québec \| <br> Aug 2023 - Current**
 
 Production, improvement, and automation of the publication *Statistiques fiscales des sociétés*
 
 Conducting an internal study on zombie firms in Québec
 
-**Canadian Armed Forces \| Combat Engineer \| 2018 - 2023**
+**Combat Engineer \| <br> Canadian Armed Forces \| <br> 2018 - 2023**
 
 DP2: Combat engineer 2IC course
 
@@ -74,6 +55,9 @@ DP2: Combat engineer 2IC course
 
 **Certification and accreditations**
 
-Statistician member of ASSQ
+  - Statistician member of ASSQ
 
-**Languages :** French (native) and advanced english
+**Languages** 
+
+  - French (native)
+  - Advanced english
