@@ -2,7 +2,7 @@
 title: "Vincent Robitaille"
 lang: fr
 about:
-  template: jolla
+  template: solana
   image: profile.jpg
   links:
     - icon: linkedin

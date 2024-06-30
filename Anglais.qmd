@@ -1,7 +1,7 @@
 ---
 title: "Vincent Robitaille"
 about:
-  template: jolla
+  template: solana
   image: profile.jpg
   links:
     - icon: linkedin
@@ -18,6 +18,21 @@ I specialize in the analysis of economic and financial data. My main interests a
 ### Education
 
 **Laval University, Québec, Canada \| M.A. in economics \| Sept 2024 - Current**
+
+::::: {layout-ncol=2}
+:::: {.column style="width: 10%;"}
+  - Item 1
+  - Item 3
+  - Item 5
+::::
+
+:::: {.column style="width: 10%;"}
+  - Item 2
+  - Item 4
+  - Item 6
+::::
+:::::
+
 
 **Laval University, Québec, Canada \| B.Sc. in economics and mathematics \| Sept 2021 - May 2024**
 
