@@ -17,34 +17,37 @@ I specialize in the analysis of economic and financial data. My main interests a
 
 ### Education
 
-**Laval University, Québec, Canada \| M.A. in economics \| Sept 2024 - Current**
+**M.A. in economics - thesis \| <br> ULaval, Québec, Canada \| <br> Sept 2024 - Current**
+
+**B.Sc. integrated in economics and mathematics \| <br> ULaval Québec, Canada \| <br> Sept 2021 - May 2024**
 
 ::::: {layout-ncol=2}
 :::: {.column style="width: 10%;"}
-  - Item 1
-  - Item 3
-  - Item 5
+  - Time series econometrics
+  - Financial economics
+  - Avanced microeconomics
+  - Discrete data analysis
+  - Advanced R programming
 ::::
 
 :::: {.column style="width: 10%;"}
-  - Item 2
-  - Item 4
-  - Item 6
+  - Bayesian statistics
+  - Regression models
+  - Data analysis
+  - Statistical and machine learning
+  - Mathematical and statistical modeling
 ::::
 :::::
 
-
-**Laval University, Québec, Canada \| B.Sc. in economics and mathematics \| Sept 2021 - May 2024**
-
 ### Experience
 
-**Department of Finance Québec \| Eonomist \| Aug 2023 - Current**
+**Economist | <br> Department of Finance Québec \| <br> Aug 2023 - Current**
 
 Production, improvement, and automation of the publication *Statistiques fiscales des sociétés*
 
 Conducting an internal study on zombie firms in Québec
 
-**Canadian Armed Forces \| Combat Engineer \| 2018 - 2023**
+**Combat Engineer \| <br> Canadian Armed Forces \| <br> 2018 - 2023**
 
 DP2: Combat engineer 2IC course
 
@@ -52,6 +55,9 @@ DP2: Combat engineer 2IC course
 
 **Certification and accreditations**
 
-Statistician member of ASSQ
+  - Statistician member of ASSQ
 
-**Languages :** French (native) and advanced english
+**Languages** 
+
+  - French (native)
+  - Advanced english
