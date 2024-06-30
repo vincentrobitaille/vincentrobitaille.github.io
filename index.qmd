@@ -18,46 +18,10 @@ Je me spécialise dans l'analyse de données économiques et financière. Je m'i
 
 ### Éducation
 
-**Université Laval, Québec, Canada \| M.A. en économique - mémoire \| Sept 2024 - Présent**
+**Université Laval, Québec, Canada \| M. A. en économique - mémoire \| Sept 2024 - Présent**
 
-**Université Laval, Québec, Canada \| B.Sc. en économie et mathématiques \| Sept 2021 - Mai 2024**
+**Université Laval, Québec, Canada \| B. Sc. en économie et mathématiques \| Sept 2021 - Mai 2024**
 
-```{=html}
-<style>
-  .two-columns {
-    display: flex;
-    justify-content: space-between;
-  }
-  .column {
-    width: 48%;
-    text-align: left;
-  }
-  ul {
-  padding-left: 20px;
-}
-</style>
-```
-::: two-columns
-::: column
-```         
-- Économétrie des séries chronologiques
-- Économie financière
-- Microéconomie avancée
-- Analyse de tableaux de fréquences
-- Programmation avancée en R
-```
-:::
-
-::: column
-```         
-- Statistique bayésienne
-- Méthodes de régression
-- Analyse de données
-- Apprentissage statistique et machine
-- Modélisation mathématique et statistique
-```
-:::
-:::
 
 ### Expérience
 
