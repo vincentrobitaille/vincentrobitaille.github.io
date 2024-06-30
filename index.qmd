@@ -7,7 +7,6 @@ about:
     - icon: linkedin
       text: linkedin
       href: https://www.linkedin.com/in/vincentrobitaille/
-
 ---
 
 ### Présentation
@@ -18,12 +17,11 @@ Je me spécialise dans l'analyse de données économiques et financière. Je m'i
 
 ### Éducation
 
-Université Laval, Québec, Canada | 
-M.A. en économique - mémoire | Sept 2024 - Présent
+Université Laval, Québec, Canada \| M.A. en économique - mémoire \| Sept 2024 - Présent
 
-Université Laval, Québec, Canada| 
-B.Sc. en économie et mathématiques | Sept 2021 - Mai 2024
+Université Laval, Québec, Canada\| B.Sc. en économie et mathématiques \| Sept 2021 - Mai 2024
 
+```{=html}
 <style>
   .two-columns {
     display: flex;
@@ -37,33 +35,38 @@ B.Sc. en économie et mathématiques | Sept 2021 - Mai 2024
   padding-left: 20px;
 }
 </style>
+```
+::: two-columns
+::: column
+```         
+- Économétrie des séries chronologiques
+- Économie financière
+- Microéconomie avancée
+- Analyse de tableaux de fréquences
+- Programmation avancée en R
+```
+:::
 
-<div class="two-columns">
-  <div class="column">
-    - Économétrie des séries chronologiques
-    - Économie financière
-    - Microéconomie avancée
-    - Analyse de tableaux de fréquences
-    - Programmation avancée en R
-  </div>
-  <div class="column">
-    - Statistique bayésienne
-    - Régression linéaire
-    - Analyse de données
-    - Apprentissage statistique et *ML*
-    - Modélisation mathématique et statistique
-  </div>
-</div>
+::: column
+```         
+- Statistique bayésienne
+- Régression linéaire
+- Analyse de données
+- Apprentissage statistique et *ML*
+- Modélisation mathématique et statistique
+```
+:::
+:::
 
 ### Expérience
 
-**Ministère des Finances du Québec | Économiste | Août 2023 - Présent**
+**Ministère des Finances du Québec \| Économiste \| Août 2023 - Présent**
 
 Production, amélioration et automatisation de la publication *Statistiques fiscales des sociétés*
 
 Réalisation d'une étude interne sur les firmes zombies québécoises
 
-**Forces armées canadiennes | Sapeur de combat | 2018 - 2023**
+**Forces armées canadiennes \| Sapeur de combat \| 2018 - 2023**
 
 ### This content appears below the formatted about page content.
 
