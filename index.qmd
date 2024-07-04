@@ -18,38 +18,41 @@ Je me spécialise dans l'analyse de données économiques et financière. Je m'i
 
 ### Éducation
 
-**M. A. en économique - mémoire \| <br> ULaval, Québec, Canada \| <br> Sept 2024 - Présent**
+**M. A. en économique - mémoire \|** <br> ULaval, Québec, Canada \| <br> Sept 2024 - Présent
 
-**B. Sc. intégré en économie et mathématiques \| <br> ULaval, Québec, Canada \| <br> Sept 2021 - Mai 2024**
+**B. Sc. intégré en économie et mathématiques \|** <br> ULaval, Québec, Canada \| <br> Sept 2021 - Mai 2024
 
-::::: {layout-ncol=2}
-:::: {.column style="width: 10%;"}
-  - Économétrie des séries chronologiques
-  - Économie financière
-  - Microéconomie avancée
-  - Analyse de tableaux de fréquences
-  - Programmation avancée en R
+:::: {layout-ncol="2"}
+::: {.column style="width: 10%;"}
+-   Économétrie des séries chronologiques
+-   Économie financière
+-   Microéconomie avancée
+-   Analyse de tableaux de fréquences
+:::
+
+::: {.column style="width: 10%;"}
+-   Statistique bayésienne
+-   Méthodes de régression
+-   Analyse de données
+-   Apprentissage statistique et machine
+-   Programmation avancée en R
+:::
 ::::
-
-:::: {.column style="width: 10%;"}
-  - Statistique bayésienne
-  - Méthodes de régression
-  - Analyse de données
-  - Apprentissage statistique et machine
-  - Modélisation
-::::
-:::::
-
 
 ### Expérience
 
-**Économiste \| <br> Ministère des Finances du Québec \| <br> Août 2023 - Présent**
+**Économiste \|** <br> Ministère des Finances du Québec \| <br> Août 2023 - Présent
 
-Production, amélioration et automatisation de la publication *Statistiques fiscales des sociétés*
+L'amélioration du processus de production de la publication *Statistiques fiscales des sociétés*. L'automatisation du processus permet de sauver une quantité
+importante de temps lors de la publication annuelle. Le programme créé permet également de répondre de manière
+rapide et efficace à des demandes de données de chercheurs, tout en traitant de manière fiable les 
+différentes données confidentielles.
 
-Réalisation d'une étude interne sur les firmes zombies québécoises
+Réalisation d'une étude interne sur les firmes zombies québécoises afin d'effectuer un recensement du phénomène au Québec. 
+Cette étude permet de brosser un premier portrait du lien entre les mesures fiscales et budgétaire et la prévalence des
+firmes zombies au Québec.
 
-**Sapeur de combat \| <br> Forces armées canadiennes \| <br> 2018 - 2023**
+**Sapeur de combat \|** <br> Forces armées canadiennes \| <br> 2018 - 2023
 
 DP2: Cours de commandant adjoint de section.
 
@@ -57,9 +60,9 @@ DP2: Cours de commandant adjoint de section.
 
 **Certifications et accréditations**
 
-  - Membre statisticien de l'ASSQ
+-   Membre statisticien de l'ASSQ
 
 **Langues**
 
-  - Français (langue première)
-  - Anglais avancé
+-   Français (langue première)
+-   Anglais avancé
