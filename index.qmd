@@ -2,7 +2,7 @@
 title: "Vincent Robitaille"
 lang: fr
 about:
-  template: solana
+  template: jolla
   image: profile.jpg
   links:
     - icon: linkedin
@@ -22,22 +22,6 @@ Je me spécialise dans l'analyse de données économiques et financière. Je m'i
 
 **B. Sc. intégré en économie et mathématiques \|** <br> ULaval, Québec, Canada \| <br> Sept 2021 - Mai 2024
 
-:::: {layout-ncol="2"}
-::: {.column style="width: 10%;"}
--   Économétrie des séries chronologiques
--   Économie financière
--   Microéconomie avancée
--   Analyse de tableaux de fréquences
-:::
-
-::: {.column style="width: 10%;"}
--   Statistique bayésienne
--   Méthodes de régression
--   Analyse de données
--   Apprentissage statistique et machine
--   Programmation avancée en R
-:::
-::::
 
 ### Expérience
 
