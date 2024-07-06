@@ -1,72 +1,44 @@
 [
   {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "projects/index.html#the-languages-of-middle-earth",
+    "href": "projects/index.html#the-languages-of-middle-earth",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Projects",
+    "section": "The History of the War of the Ring",
+    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Vincent Robitaille",
+    "title": "Welcome to my website!",
     "section": "",
-    "text": "Présentation\nJe suis candidat à la maîtrise en économique à l’Université Laval et économiste au sein de la Direction de la taxation des entreprises et de l’analyse quantitative du Ministère des Finances du Québec.\nJe me spécialise dans l’analyse de données économiques et financière. Je m’intéresse principalement à la macroéconomie, l’économie financière et l’économétrie.\n\n\nÉducation\nM. A. en économique - mémoire |  ULaval, Québec, Canada |  Sept 2024 - Présent\nB. Sc. intégré en économie et mathématiques |  ULaval, Québec, Canada |  Sept 2021 - Mai 2024\n\n\n\n\nÉconométrie des séries chronologiques\nÉconomie financière\nMicroéconomie avancée\nAnalyse de tableaux de fréquences\n\n\n\n\nStatistique bayésienne\nMéthodes de régression\nAnalyse de données\nApprentissage statistique et machine\nProgrammation avancée en R\n\n\n\n\n\n\nExpérience\nÉconomiste |  Ministère des Finances du Québec |  Août 2023 - Présent\nL’amélioration du processus de production de la publication Statistiques fiscales des sociétés. L’automatisation du processus permet de sauver une quantité importante de temps lors de la publication annuelle. Le programme créé permet également de répondre de manière rapide et efficace à des demandes de données de chercheurs, tout en traitant de manière fiable les différentes données confidentielles.\nRéalisation d’une étude interne sur les firmes zombies québécoises afin d’effectuer un recensement du phénomène au Québec. Cette étude permet de brosser un premier portrait du lien entre les mesures fiscales et budgétaire et la prévalence des firmes zombies au Québec.\nSapeur de combat |  Forces armées canadiennes |  2018 - 2023\nDP2: Cours de commandant adjoint de section.\n\n\nAutre\nCertifications et accréditations\n\nMembre statisticien de l’ASSQ\n\nLangues\n\nFrançais (langue première)\nAnglais avancé"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "Favorites.html",
-    "href": "Favorites.html",
-    "title": "Favorites",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "Favorites.html#page-test",
-    "href": "Favorites.html#page-test",
-    "title": "Favorites",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "Favorites.html#running-code",
-    "href": "Favorites.html#running-code",
-    "title": "Favorites",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Vincent Robitaille",
-    "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Vincent Robitaille",
-    "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
-  },
-  {
-    "objectID": "Anglais.html",
-    "href": "Anglais.html",
-    "title": "Vincent Robitaille",
-    "section": "",
-    "text": "Presentation\nI am a candidate for a Master’s degree in Economics at Laval University and an economist within the Business Taxation and Quantitative Analysis division of Quebec Department of Finance.\nI specialize in the analysis of economic and financial data. My main interests are macroeconomics, financial economics, and econometrics.\n\n\nEducation\nM.A. in economics - thesis |  ULaval, Québec, Canada |  Sept 2024 - Current\nB.Sc. integrated in economics and mathematics |  ULaval Québec, Canada |  Sept 2021 - May 2024\n\n\n\n\nTime series econometrics\nFinancial economics\nAvanced microeconomics\nDiscrete data analysis\nAdvanced R programming\n\n\n\n\nBayesian statistics\nRegression models\nData analysis\nStatistical and machine learning\nMathematical and statistical modeling\n\n\n\n\n\n\nExperience\nEconomist |  Department of Finance Québec |  Aug 2023 - Current\nImproving the production process of the Statistiques fiscales des sociétés publication. Automating it saves a significant amount of time during the annual publication. The program created also allows for a quick and efficient response to researchers’ data requests while reliably handling various confidential data.\nConducting an internal study on Quebec’s zombie firms to identify the phenomenon in the province. This study provides an initial overview of the relationship between fiscal and budgetary measures and the prevalence of zombie firms in Quebec.\nCombat Engineer |  Canadian Armed Forces |  2018 - 2023\nDP2: Combat engineer 2IC course\n\n\nAutre\nCertification and accreditations\n\nStatistician member of ASSQ\n\nLanguages\n\nFrench (native)\nAdvanced english"
-  },
-  {
-    "objectID": "Anglais.html#page-test",
-    "href": "Anglais.html#page-test",
-    "title": "Favorites",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "Anglais.html#running-code",
-    "href": "Anglais.html#running-code",
-    "title": "Favorites",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nI am Gandalf the White, a renowned wizard and scholar of Middle-earth. Over the centuries, I have dedicated my life to studying the history, languages, and cultures of the peoples of Middle-earth. On this website, I offer a glimpse into my vast body of knowledge, ongoing research, and publications.\nMy research interests span the entirety of Middle-earth, from the distant past to the present day. I am particularly passionate about the languages and mythologies of the Elves, Dwarves, and Men, and I have made significant contributions to the understanding of these subjects. My studies of the natural world have also been extensive, and I am an expert in the flora and fauna of Middle-earth. Additionally, I have been involved in many important historical events and offer valuable first-hand accounts and insights on the past.\nNot only am I a scholar, but I am also a mentor and teacher. Over the centuries, I have had the honor of working with many young wizards, passing on my knowledge and experience to the next generation. I have a particular interest in the education of hobbits, whom I see as having great potential despite their small size and simple lifestyle. My teaching style is engaging and accessible, and I encourage my students to think critically and creatively.\nOn this website, you will find a selection of my published works, including scholarly articles, monographs, and translations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about my life’s work as one of Middle-earth’s greatest scholars and thinkers. Please feel free to contact me if you have any questions or would like to discuss potential projects.\n\nView the tutorial for this template (+ download link)"
   }
 ]

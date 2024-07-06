@@ -1,68 +1,40 @@
 ---
-title: "Vincent Robitaille"
-lang: fr
 about:
-  template: solana
-  image: profile.jpg
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
   links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/MarvinSchmittML
+    - icon: github
+      text: Github
+      href: https://github.com/marvinschmitt
     - icon: linkedin
-      text: linkedin
-      href: https://www.linkedin.com/in/vincentrobitaille/
+      text: LinkedIn
+      href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.marvinschmitt@gmail.com"  
 ---
 
-### Présentation
-
-Je suis candidat à la maîtrise en économique à l'Université Laval et économiste au sein de la Direction de la taxation des entreprises et de l'analyse quantitative du Ministère des Finances du Québec.
-
-Je me spécialise dans l'analyse de données économiques et financière. Je m'intéresse principalement à la macroéconomie, l'économie financière et l'économétrie.
-
-### Éducation
-
-**M. A. en économique - mémoire \|** <br> ULaval, Québec, Canada \| <br> Sept 2024 - Présent
-
-**B. Sc. intégré en économie et mathématiques \|** <br> ULaval, Québec, Canada \| <br> Sept 2021 - Mai 2024
-
-:::: {layout-ncol="2"}
-::: {.column style="width: 10%;"}
--   Économétrie des séries chronologiques
--   Économie financière
--   Microéconomie avancée
--   Analyse de tableaux de fréquences
+::: {#about-block}
 :::
 
-::: {.column style="width: 10%;"}
--   Statistique bayésienne
--   Méthodes de régression
--   Analyse de données
--   Apprentissage statistique et machine
--   Programmation avancée en R
-:::
-::::
+# Welcome to my website!
 
-### Expérience
+I am Gandalf the White, a renowned wizard and scholar of Middle-earth. Over the centuries, I have dedicated my life to studying the history, languages, and cultures of the peoples of Middle-earth. On this website, I offer a glimpse into my vast body of knowledge, ongoing research, and publications.
 
-**Économiste \|** <br> Ministère des Finances du Québec \| <br> Août 2023 - Présent
+My research interests span the entirety of Middle-earth, from the distant past to the present day. I am particularly passionate about the languages and mythologies of the Elves, Dwarves, and Men, and I have made significant contributions to the understanding of these subjects. My studies of the natural world have also been extensive, and I am an expert in the flora and fauna of Middle-earth. Additionally, I have been involved in many important historical events and offer valuable first-hand accounts and insights on the past.
 
-L'amélioration du processus de production de la publication *Statistiques fiscales des sociétés*. L'automatisation du processus permet de sauver une quantité
-importante de temps lors de la publication annuelle. Le programme créé permet également de répondre de manière
-rapide et efficace à des demandes de données de chercheurs, tout en traitant de manière fiable les 
-différentes données confidentielles.
+Not only am I a scholar, but I am also a mentor and teacher. Over the centuries, I have had the honor of working with many young wizards, passing on my knowledge and experience to the next generation. I have a particular interest in the education of hobbits, whom I see as having great potential despite their small size and simple lifestyle. My teaching style is engaging and accessible, and I encourage my students to think critically and creatively.
 
-Réalisation d'une étude interne sur les firmes zombies québécoises afin d'effectuer un recensement du phénomène au Québec. 
-Cette étude permet de brosser un premier portrait du lien entre les mesures fiscales et budgétaire et la prévalence des
-firmes zombies au Québec.
+On this website, you will find a selection of my published works, including scholarly articles, monographs, and translations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about my life's work as one of Middle-earth's greatest scholars and thinkers.
+Please feel free to [contact me](mailto:mail.marvinschmitt@gmail.com) if you have any questions or would like to discuss potential projects.
 
-**Sapeur de combat \|** <br> Forces armées canadiennes \| <br> 2018 - 2023
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
 
-DP2: Cours de commandant adjoint de section.
-
-### Autre
-
-**Certifications et accréditations**
-
--   Membre statisticien de l'ASSQ
-
-**Langues**
-
--   Français (langue première)
--   Anglais avancé
